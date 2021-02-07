@@ -1,4 +1,4 @@
-programa para conversão de arquivos. 
+programa para conversão de imagens. 
 
 A principio converte apenas arquivos jpg para png. 
 
